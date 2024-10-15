@@ -9,7 +9,7 @@ this data to present any insights I may uncover. After that, Build a predictive 
 **Objective**: Scrape and analyze customer review data to uncover findings for British Airways; Build a predictive model to understand factors that influence buying behavior <br>
 **Methods Used**: Data Scraping, Exploratory Data Analysis, Data Visualization, NLP, Machine Learning, Predictive Modeling.<br>
 **Type of Problem**: Binary Classification Task. <br>
-**Language, Libraries, technologies used**: Python, Pandas, WordCloud, TextBlob, NRCLex, Nltk, Matplotlib, Seaborn, Numpy, Scipy, Scikit-learn.<br>
+**Language, Libraries, technologies used**: Python, Pandas, WordCloud, TextBlob, NRCLex, Nltk, Matplotlib, Seaborn, Numpy, Scipy, Scikit-learn .<br>
 
 ## KEY INSIGHTS: 
 - Out of the 2000 reviews scraped, 1292 were positive, 694 were negative and 14 were neutral, meaning that 65% of the reviews were positive,
